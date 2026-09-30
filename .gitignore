@@ -22,6 +22,7 @@ env/
 .env
 *.env
 *.env.local
+backend/.env
 
 # FAISS index files (large binary files - regenerate locally)
 faiss_index/
