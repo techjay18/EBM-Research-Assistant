@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+backend/venv/
+venv/
+env/
+.env
+.venv/
+
+# Environment variables / secrets
+.env
+*.env
+*.env.local
+
+# FAISS index files (large binary files - regenerate locally)
+faiss_index/
+backend/faiss_index/
+*.faiss
+*.pkl
+
+# Dataset (large files - store separately or use Git LFS)
+dataset/
+*.csv
+
+# Node.js
+frontend/node_modules/
+node_modules/
+frontend/dist/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package lock (optional - keep if you want reproducible installs)
+# package-lock.json

@@ -1,0 +1,22 @@
+# Web framework
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Data processing
+pandas
+numpy
+
+# Vector search
+faiss-cpu
+
+# Embeddings & NLP
+sentence-transformers
+torch
+
+# LLM API client (Hugging Face / Gradio Space)
+gradio-client
