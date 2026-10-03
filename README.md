@@ -155,14 +155,20 @@ The system rejects the query because it is outside the supported oncology domain
 
 ---
 
+```markdown
 ## 📸 Screenshots
 
-```text
-screenshots/
-├── home.png
-├── query.png
-└── result.png
-```
+### 🏠 Home Page
+
+![Home Page](screenshots/home page.png)
+
+### 🔍 Research Query
+
+![Research Query](screenshots/question.png)
+
+### 📄 Generated Response
+
+![Generated Response](screenshots/response.png)
 
 ---
 
