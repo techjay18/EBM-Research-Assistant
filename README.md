@@ -160,15 +160,15 @@ The system rejects the query because it is outside the supported oncology domain
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.jpeg)
 
 ### 🔍 Research Query
 
-![Research Query](screenshots/question.png)
+![Research Query](screenshots/question.jpeg)
 
 ### 📄 Generated Response
 
-![Generated Response](screenshots/response.png)
+![Generated Response](screenshots/response.jpeg)
 
 ---
 
